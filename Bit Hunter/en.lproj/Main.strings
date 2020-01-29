@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Begin"; ObjectID = "3HS-fb-FCa"; */
+"3HS-fb-FCa.normalTitle" = "Begin";
+
+/* Class = "UIButton"; normalTitle = "Arcade"; ObjectID = "3vR-qQ-GX1"; */
+"3vR-qQ-GX1.normalTitle" = "Arcade";
+
+/* Class = "UIButton"; normalTitle = "Game Center"; ObjectID = "6Fj-7F-B5x"; */
+"6Fj-7F-B5x.normalTitle" = "Game Center";
+
+/* Class = "UIButton"; normalTitle = "Stats"; ObjectID = "9qw-d5-PYC"; */
+"9qw-d5-PYC.normalTitle" = "Stats";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EKF-Ck-8Gg"; */
+"EKF-Ck-8Gg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "High Score Achieved!"; ObjectID = "GWC-mr-xZK"; */
+"GWC-mr-xZK.text" = "High Score Achieved!";
+
+/* Class = "UILabel"; text = "High Score: 0"; ObjectID = "MvM-91-R75"; */
+"MvM-91-R75.text" = "High Score: 0";
+
+/* Class = "UILabel"; text = "Sets your high score back to 0"; ObjectID = "QNb-th-1VJ"; */
+"QNb-th-1VJ.text" = "Sets your high score back to 0";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Sn8-Hd-gQC"; */
+"Sn8-Hd-gQC.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "+1"; ObjectID = "Ulg-xP-bT4"; */
+"Ulg-xP-bT4.text" = "+1";
+
+/* Class = "UILabel"; text = "You Lose!"; ObjectID = "kB1-QA-ica"; */
+"kB1-QA-ica.text" = "You Lose!";
+
+/* Class = "UIButton"; normalTitle = "Exit"; ObjectID = "o58-hI-BdN"; */
+"o58-hI-BdN.normalTitle" = "Exit";
+
+/* Class = "UILabel"; text = "Score: 0"; ObjectID = "oNl-Aa-H15"; */
+"oNl-Aa-H15.text" = "Score: 0";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "r34-Av-N8c"; */
+"r34-Av-N8c.normalTitle" = "Settings";
+
+/* Class = "UILabel"; text = "Reset High Score"; ObjectID = "sEx-mo-NDc"; */
+"sEx-mo-NDc.text" = "Reset High Score";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "u5g-zL-6Xs"; */
+"u5g-zL-6Xs.text" = "0";
